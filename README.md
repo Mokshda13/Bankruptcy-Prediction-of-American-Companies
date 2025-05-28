@@ -91,12 +91,4 @@ Gradient Boosting
 * Clustering helps identify risk segments for more informed decisions
 * Real-time monitoring and advanced models can improve future predictions
 
----
 
-**Future Improvements**
-
-* Collect more bankruptcy examples to improve class balance
-* Explore advanced models like XGBoost and neural networks
-* Integrate real-time financial data for live prediction
-
----
